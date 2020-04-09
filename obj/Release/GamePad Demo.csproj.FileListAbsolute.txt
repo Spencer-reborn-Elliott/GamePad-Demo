@@ -1,0 +1,16 @@
+C:\Users\Spencer\source\repos\GamePad Demo\bin\Release\GamePad Demo.exe.config
+C:\Users\Spencer\source\repos\GamePad Demo\bin\Release\GamePad Demo.exe
+C:\Users\Spencer\source\repos\GamePad Demo\bin\Release\GamePad Demo.pdb
+C:\Users\Spencer\source\repos\GamePad Demo\bin\Release\SharpDX.DirectInput.dll
+C:\Users\Spencer\source\repos\GamePad Demo\bin\Release\SharpDX.dll
+C:\Users\Spencer\source\repos\GamePad Demo\bin\Release\SharpDX.pdb
+C:\Users\Spencer\source\repos\GamePad Demo\bin\Release\SharpDX.DirectInput.pdb
+C:\Users\Spencer\source\repos\GamePad Demo\bin\Release\SharpDX.DirectInput.xml
+C:\Users\Spencer\source\repos\GamePad Demo\obj\Release\GamePad_Demo.Form1.resources
+C:\Users\Spencer\source\repos\GamePad Demo\obj\Release\GamePad_Demo.Properties.Resources.resources
+C:\Users\Spencer\source\repos\GamePad Demo\obj\Release\GamePad Demo.csproj.GenerateResource.cache
+C:\Users\Spencer\source\repos\GamePad Demo\obj\Release\GamePad Demo.csproj.CopyComplete
+C:\Users\Spencer\source\repos\GamePad Demo\obj\Release\GamePad Demo.exe
+C:\Users\Spencer\source\repos\GamePad Demo\obj\Release\GamePad Demo.pdb
+C:\Users\Spencer\source\repos\GamePad Demo\obj\Release\GamePad Demo.csprojAssemblyReference.cache
+C:\Users\Spencer\source\repos\GamePad Demo\obj\Release\GamePad Demo.csproj.CoreCompileInputs.cache
